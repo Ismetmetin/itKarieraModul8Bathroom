@@ -1,0 +1,10 @@
+
+- infrared senzor za hartiq za bursane na ruce ---- готово 
+
+servo kolko gradusa da e boilera svurzan s perka koqto go "nagrqva" (purvo moje da se svurje ekrana da se vijda Wanted degrees i current degrees za da e po lesno)
+ i na lcd to se pokazvat gradusite kak rastat gradually
+
+
+//kluch
+svetlina i ventilaciq s i lcd to e vklucheno kogato klucha e ON
+gazova sistema koqto pravi zvuk pri nejelani gazove
