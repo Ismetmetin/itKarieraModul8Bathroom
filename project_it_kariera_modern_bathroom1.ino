@@ -43,7 +43,5 @@ if(digitalRead(infraredSensor)){
    delay(1500);
    analogWrite(tissueDispenser,0);
    delay(3500);//delay mejdu sledvashtoto puskane na hartiqta
-  }else{
-  analogWrite(tissueDispenser,0);
   }
 }
