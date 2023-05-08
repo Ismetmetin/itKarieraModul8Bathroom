@@ -46,6 +46,4 @@ if(digitalRead(infraredSensor)){
   }else{
   analogWrite(tissueDispenser,0);
   }
-
-
 }
